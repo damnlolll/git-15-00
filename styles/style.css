@@ -27,3 +27,12 @@ h2 {
     height: 100vh;
     clip-path: polygon(50% 0%, 100% 0, 100% 35%, 100% 70%, 80% 90%, 50% 98%, 20% 90%, 0% 70%, 0% 35%, 0 0);
 }
+
+
+.footer {
+    background: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
